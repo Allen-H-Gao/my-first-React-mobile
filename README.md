@@ -1,4 +1,4 @@
-# e2e-mobile
+# my-mobile
 
 
 ### `yarn add` || `npm install`
